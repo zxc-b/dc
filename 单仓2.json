@@ -1,20 +1,16 @@
-//【云星日记】
-//使用方法:云星仓库链接添加不上的, 使用zxc.txt这个文件下载保存到内部储存目录下, 名称要保持一致,打开可视TV软件, 首页配置哪里扫码点上传文件,在到手机里面找到这个文件选择上传后,确认打开确定键旁边的存储权限, 在复制粘贴推送clan://localhost/yxzxc.txt这个链接到仓库地址即可。
-//手机直接把文件放到内部储存目录下，复制上面的接口链接直接输入到仓库接口哪里即可。
-/配置地址：clan：//localhost/yxzxc.txt
 
 {
     "urls": [
         {"url": "https://pan.shangui.cc/f/m315Sb/sft%20pl.txt","name": "⚜️爽翻天主线路"},
         {"url": "http://itvbox.cc/sft/sft yx.txt","name": "⚜️爽翻天备用线路"},
-        {"url": “http://itvbox.cc/tvbox/云星日记/1. m 3 u 8”,"name": "⚜️云星家庭线路"},
-        {"url": “http：//我不是. love:63/315”,"name": “️肥猫熊猫you”},
-        {"url": “http：//饭太硬. top/tv”,"name": "⚜️饭太硬1线路"},
+        {"url"：[http://itvbox.cc/tvbox/云星日记/1. m3英语字母表的第21个字母8”,"name": "⚜️云星家庭线路"},
+        {"url"：http：//我不是63/315”,"name": “️肥猫熊猫you”},
+        {"url"：http：//饭太硬。"name": "⚜️饭太硬1线路"},
         {"url": "http://fan.xxooo.cf/tv","name": "⚜️饭太硬2线路"},
         {"url": "http://fan.888484.xyz/tv","name": "⚜️饭太硬3线路"},
         {"url": "http://luoye.shop/DEMO.json","name": "⚜️小米线路"},
-        //{"url": “http://xhww.fun:63/小米/DEMO.json”,"name": "⚜️小米线路"},
-        {"url": “http：//刚刚. live/”,"name": "⚜️刚刚线路"},
+        //{"url": “http://xhww.fun:63/小米/DEMO.json]，"name": "⚜️小米线路"},
+        {"url"：http：//刚刚。"name": "⚜️刚刚线路"},
         {"url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json","name": "⚜️香雅情1线路"}, 
         //{"url": "http://vipurl.icu/XYQTVBox/XYQTVBox.json","name": "⚜️香雅晴2线路"},
         //{"url": "https://jihulab.com/oAI/D/-/raw/master/XYQ.json","name": "⚜️香雅晴3线路"},
@@ -33,7 +29,7 @@
 //https://ghproxy.com/https：//raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json
         {"url": "https://raw.liucn.cc/box/m.json","name": "⚜️老刘备线路"},
         {"url": "https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json","name": "⚜️影音天堂线路"},
-        {"url": "https://s2.pub/cally","name": “️cally线路”},
+        {"url": "https://s2.pub/cally","name"：“❤️cally线路”},
         {"url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8","name":"⚜️分享者1线路"},
         {"url": "https://agit.ai/n/b/raw/branch/a/b/c.json","name":"⚜️分享者2线路"},
         {"url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8","name": "⚜️不良帅线路"},
